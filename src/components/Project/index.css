@@ -1,0 +1,21 @@
+.project {
+  background-color: #f9faff;
+}
+
+.project_heading {
+  font-family: Playfair Display;
+  font-weight: 700;
+  font-size: 48px;
+  text-align: center;
+  color: #25282b;
+  margin-bottom: 40px;
+}
+
+.project_items {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
